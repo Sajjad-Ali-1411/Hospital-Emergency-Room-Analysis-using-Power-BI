@@ -27,12 +27,14 @@ The goal is to identify bottlenecks, optimize resource allocation, and provide *
 ---
 
 ## 🔍 Key Insights
-1. ER visits peak between **5 PM – 11 PM** → staffing should be increased during this period.  
-2. **Waiting time > treatment time**, meaning bottlenecks are at **triage/registration** not clinical care.  
-3. Majority of Patients are aged 20–40 years; a notable share of children (0–10) and seniors (65+).  
-4. Most patients are **discharged**, suggesting urgent-care clinics could handle many.  
-5. High **repeat visits** indicate poor follow-up care and discharge communication.  
-6. **Lab & imaging delays** are a major contributor to overall patient length of stay.  
+1. ER visits peak between **5 PM – 11 PM** → staffing should be increased during this period.
+2. Average waiting time is significantly higher, approximately 35.3 min. The average satisfaction score is 4.99 out of 10, which is low and needs improvement.
+3. **Waiting time > treatment time**, meaning bottlenecks are at **triage/registration** not clinical care.  
+4. Majority of Patients are aged 20–40 years; a notable share of children (0–10) and seniors (65+).
+5. A significant number of patients (5400) did not require referrals. Most commonly, referrals are from General Practice (1840), followed by Orthopedics (995). 
+6. Most patients are **discharged**, suggesting urgent-care clinics could handle many.  
+7. High **repeat visits** indicate poor follow-up care and discharge communication.  
+8. **Lab & imaging delays** are a major contributor to overall patient length of stay.  
 
 ---
 
