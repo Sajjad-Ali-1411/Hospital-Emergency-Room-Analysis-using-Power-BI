@@ -10,9 +10,11 @@ The goal is to identify bottlenecks, optimize resource allocation, and provide *
 
 ## 🎯 Objectives
 - Understand patient flow (peak hours, day-of-week patterns, demographics).
-- Analyze **waiting time vs treatment time** to identify bottlenecks.
+- Analyze the average satisfaction score of patients on a daily basis to evaluate the quality of service provided.
+- Calculate the average time patients wait before being attended to by a medical professional.
 - Study **bed occupancy & diagnostics turnaround** to improve efficiency.
-- Identify repeat visit trends and follow-up care gaps.
+- Offer granular insights into patient-level data to enable detailed analysis and troubleshooting.
+- Monitor key metrics and trends on a month-by-month basis to identify patterns and areas for improvement.
 - Provide stakeholders with insights to **reduce ER congestion, improve care quality, and increase productivity**.
 
 ---
