@@ -47,30 +47,7 @@ The goal is to identify bottlenecks, optimize resource allocation, and provide *
 ## 📂 Repository Contents
 - `dashboard/Hospital.pbix` → Power BI dashboard  
 - `reports/Hospital_ER_Executive_Summary.pdf` → One-page summary for stakeholders  
-- `reports/Hospital_ER_Productivity_Report.pdf` → Detailed 6-page stakeholder report  
 - `visuals/` → Exported dashboard screenshots for quick view  
-
----
-
-## 📊 Sample Visuals
-
-### Dashboard Overview
-![Dashboard Overview](visuals/ER_Dashboard_Overview.png)
-
-### Patient Flow Heatmap
-![Patient Flow Heatmap](visuals/ER_PatientFlow_Heatmap.png)
-
-### Waiting vs Treatment Time
-![Waiting vs Treatment](visuals/ER_WaitingVsTreatment.png)
-
-### Case Mix by Age Group & Condition
-![Case Mix](visuals/ER_CaseMix.png)
-
-### Bed Utilization Trend
-![Bed Utilization](visuals/ER_BedUtilization.png)
-
-### Repeat Visits Analysis
-![Repeat Visits](visuals/ER_RepeatVisits.png)
 
 ---
 
