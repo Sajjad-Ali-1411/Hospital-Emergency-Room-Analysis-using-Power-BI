@@ -1,6 +1,4 @@
 # Hospital-Emergency-Room-Analysis-using-Power-BI
-Healthcare analytics project using Power BI to improve Emergency Room productivity by reducing wait times, optimizing staff allocation, and enhancing patient outcomes.
-# 🏥 Hospital Emergency Room Analysis
 
 ## 📌 Project Overview
 This project analyzes **Emergency Room (ER) productivity** using hospital data visualized in **Power BI**.  
@@ -70,7 +68,7 @@ The goal is to identify bottlenecks, optimize resource allocation, and provide *
 ## 📂 Repository Contents
 - `dashboard/Hospital.pbix` → Power BI dashboard  
 - `reports/Hospital_ER_Executive_Summary.pdf` → One-page summary for stakeholders  
-- `visuals/` → Exported dashboard screenshots for quick view  
+-  Exported dashboard screenshots for quick view  
 
 ---
 
