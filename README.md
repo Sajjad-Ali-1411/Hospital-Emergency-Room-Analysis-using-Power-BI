@@ -20,7 +20,23 @@ The goal is to identify bottlenecks, optimize resource allocation, and provide *
 ---
 
 ## 📸 Dashboard Preview
-![Emergency Room Dashboard](Consolidate_view.png)
+
+# Consolidate View
+<img width="1293" height="728" alt="Consolidate view" src="https://github.com/user-attachments/assets/bb137cea-91de-434e-8d24-0e172d711e5b" />
+
+
+# Monthly View
+<img width="1291" height="731" alt="Monthly view" src="https://github.com/user-attachments/assets/11b7b747-1457-409f-880d-af3ae0548fd5" />
+
+
+# Quarterly View
+<img width="1294" height="729" alt="Quaterly view" src="https://github.com/user-attachments/assets/5d8e2c8d-b75c-40ef-9d55-79a65acfca57" />
+
+
+# Patient Details
+<img width="1290" height="729" alt="Pateint details" src="https://github.com/user-attachments/assets/2a295e6e-4448-4699-9d1b-e0e3f6b862db" />
+
+---
 
 ## 📊 Tools & Technologies
 - **Power BI** → Dashboard & visualization  
