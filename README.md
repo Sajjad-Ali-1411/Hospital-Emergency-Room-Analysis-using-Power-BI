@@ -19,6 +19,9 @@ The goal is to identify bottlenecks, optimize resource allocation, and provide *
 
 ---
 
+## 📸 Dashboard Preview
+![Emergency Room Dashboard](Consolidate_view.png)
+
 ## 📊 Tools & Technologies
 - **Power BI** → Dashboard & visualization  
 - **SQL (PostgreSQL)** → Data extraction & transformation   
